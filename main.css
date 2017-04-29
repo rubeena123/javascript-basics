@@ -1,0 +1,11 @@
+body{
+  text-align: center;
+}
+
+
+.header{
+  background: black;
+  padding:20px;
+  border-bottom:#ccc 3px solid;
+  color: orange;
+}
